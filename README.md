@@ -6,21 +6,7 @@
 <p align=center>
   <b><i> Moi c'est Leïla / Aliiel ! 👋 </b></i><br>
   ⚡ <i>Développeuse Web FullStack</i> ⚡ <br>
-  ✨ Bienvenue sur mon profil Github ! 
 </p>
-<details>
-  <summary align="center"><i>À propos de moi 👇</i></summary>
-  <p align="center"><br>
-    Issue d’un parcours de reconversion, je développe avec <b>passion</b> des projets aussi bien côté backend que <b>frontend</b>, avec une préférence pour le back et la <b>sécurité applicative</b>.<br>
-    <b>Perfectionniste</b> et <b>créative</b>, j'aime que mon code et mes interfaces soient non seulement <b>fonctionnels</b>, mais aussi <b>élégants</b>, pour offrir la <b>meilleure expérience utilisateur</b>.<br>
-    Animée par une vraie <b>curiosité</b>, je cherche à <b>comprendre</b> en profondeur le fonctionnement des choses et à explorer toujours plus loin pour trouver la <b>solution</b> la plus <b>pertinente</b>.<br>
-    J’accorde une grande importance au <b>sens du détail</b> et au <b>professionnalisme</b>, et ma <b>capacité d'adaptation</b> me permet de m'intégrer rapidement dans de nouveaux environnements et de relever efficacement des <b>défis techniques</b>.<br>
-    Enfin, ma <b>persévérance</b> et ma <b>résilience</b> sont mes meilleurs alliées lorsque les choses ne fonctionnent pas du premier coup 😄<br>
-  </p>
-  <p align="center">
-    <img src="./assets/gifs/giphy_code.gif" alt="code_gif" width="200">
-  </p>
-</details>
 
 ## ⚙️ Technologies
 
@@ -106,14 +92,6 @@
           </p>
         </li>
         <br>
-        <li>
-          <details>
-            <summary>💜</summary><br><br>
-              <p align="center">
-                <img src="./assets/gifs/giphy_passion.gif" alt="passion_gif" width="250">
-              </p>
-          </details>
-        </li>
       </ul>
     </td>
   </tr>
